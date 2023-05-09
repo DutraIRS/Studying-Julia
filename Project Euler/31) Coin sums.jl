@@ -5,4 +5,4 @@ for a in 0:200, b in 0:100, c in 0:40, d in 0:20, e in 0:10, f in 0:4, g in 0:2,
         global count += 1
     end
 end
-count
+println(count)
